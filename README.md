@@ -42,7 +42,7 @@ This application is actively being built. The table below shows the current stat
 
 ## 📱 Screenshots
 
-> Screenshots will be added as the UI is finalized.
+
 
 ---
 
