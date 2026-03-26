@@ -10,7 +10,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Windows-lightgrey?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-**A professional structural & civil engineering toolkit built with Flutter.**  
+**A structural & civil engineering toolkit built with Flutter.**  
 Beam calculations · Column design · AR measurement · 3D modeling · AutoCAD-style floor plans
 
 </div>
